@@ -1,8 +1,8 @@
-# React + Vite
+# Usando Componentes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pequeña aplicación web, toda la interfaz esta hecha Componentes para no repetir HTML, además se han agregado estilos usando TailwindCSS. Para iniciar el proyecto se ha utilizado Vite.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Iniciar proyecto
+Ejecuta estos comando para inciar el proyecto:
+* ``npm install`` : instalar dependencias
+* ``npm run dev`` : correr proyecto en local
